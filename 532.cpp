@@ -25,6 +25,5 @@ int main()
 
         cout << peso - neto << endl;
     }
-
     return 0;
 }
